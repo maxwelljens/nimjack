@@ -31,12 +31,6 @@ nimble install docopt
 nim c "/path/to/source/nimjack.nim"
 ```
 
-## But where is nimjack?
-
-**Note:** You can sign in with your GitHub account.
-
-[https://maxwelljensen.no/git/maxwelljensen/nimjack](https://maxwelljensen.no/git/maxwelljensen/nimjack)
-
 ## Licence
 
 This project is licensed under [European Union Public Licence 1.2](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12).
